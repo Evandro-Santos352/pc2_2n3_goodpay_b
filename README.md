@@ -114,7 +114,6 @@ Abaixo estão os nove textos desenvolvidos para as campanhas, todos ajustados pa
 <img width="751" height="1024" alt="angeline" src="https://github.com/user-attachments/assets/7b3c6b73-e7b6-444b-a66a-06eb5f32f208" />
 <img width="751" height="1024" alt="evandro" src="https://github.com/user-attachments/assets/f914df40-931b-47b0-af64-ae0eab3c8b6a" />
 <img width="751" height="1024" alt="jasmine" src="https://github.com/user-attachments/assets/d90f24a4-bc94-4fbd-a87e-db2c828e73d8" />
-<img width="751" height="1024" alt="bruno" src="https://github.com/user-attachments/assets/b49906b4-ada1-4bea-b070-e2909debe5a8" />
 <img width="751" height="1024" alt="kauan" src="https://github.com/user-attachments/assets/6811ffa6-e8d7-49e9-be5a-ab72ad0d5745" />
 <img width="751" height="1024" alt="marcio" src="https://github.com/user-attachments/assets/a66d4e96-de37-41fd-9014-62421599a6e1" />
 <img width="751" height="1024" alt="cesar" src="https://github.com/user-attachments/assets/fbf5640e-f64d-498e-b7a1-75bfef8fcb57" />
